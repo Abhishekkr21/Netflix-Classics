@@ -51,13 +51,13 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/movie-streaming-project.git
+   git clone https://github.com/Abhishekkr21/Netflix-clone.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd movie-streaming-project
+   cd Netflix-clone
    ```
 
 3. Install the project dependencies using npm:
